@@ -1,0 +1,12 @@
+c:\users\tronick\documents\visual studio 2017\Projects\Academico\Academico\obj\Debug\Academico.csprojResolveAssemblyReference.cache
+c:\users\tronick\documents\visual studio 2017\Projects\Academico\Academico\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\tronick\documents\visual studio 2017\Projects\Academico\Academico\obj\Debug\Academico.Properties.Resources.resources
+c:\users\tronick\documents\visual studio 2017\Projects\Academico\Academico\obj\Debug\Academico.csproj.GenerateResource.Cache
+c:\users\tronick\documents\visual studio 2017\Projects\Academico\Academico\bin\Debug\Academico.exe.config
+c:\users\tronick\documents\visual studio 2017\Projects\Academico\Academico\bin\Debug\Academico.exe
+c:\users\tronick\documents\visual studio 2017\Projects\Academico\Academico\bin\Debug\Academico.pdb
+c:\users\tronick\documents\visual studio 2017\Projects\Academico\Academico\obj\Debug\Academico.exe
+c:\users\tronick\documents\visual studio 2017\Projects\Academico\Academico\obj\Debug\Academico.pdb
+D:\Academico\Academico\bin\Debug\Academico.exe.config
+D:\Academico\Academico\obj\Debug\Academico.exe
+D:\Academico\Academico\obj\Debug\Academico.pdb
